@@ -1,16 +1,35 @@
-## Hi there 👋
+![Logo](https://profilerepository.s3.us-east-1.amazonaws.com/dev2.jpg)
 
-<!--
-**Juan-Barraza/Juan-Barraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Juan 👋
 
-Here are some ideas to get you started:
+I'm a software engineer passionate about software development, cloud infrastructure, and networking. I'm 20 years old and from Colombia. I love working with diverse technologies and exploring new ways to optimize systems and processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Software development
+- Cloud infrastructure
+- Networking and system administration
+
+## Languages and Technologies
+
+- ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%2322B7A7?style=for-the-badge&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-%23F7A800?style=for-the-badge&logo=java&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23223D7A?style=for-the-badge&logo=typescript&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Frameworks
+
+- ![Fiber](https://img.shields.io/badge/Fiber-%2300B5CC?style=for-the-badge&logo=fiber&logoColor=white)
+- ![Gin](https://img.shields.io/badge/Gin-%23000000?style=for-the-badge&logo=gin&logoColor=white)
+- ![Flask](https://img.shields.io/badge/Flask-%23000A19?style=for-the-badge&logo=flask&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-%23092F20?style=for-the-badge&logo=django&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-%2361DAFB?style=for-the-badge&logo=express&logoColor=white)
+
+
+## GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Barraza&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+
+
+**Thank you for visiting my repository! I hope you find something interesting!**
