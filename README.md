@@ -31,3 +31,8 @@ I'm a software engineer passionate about software development, cloud infrastruct
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Barraza&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 **Thank you for visiting my repository! I hope you find something interesting!**
+
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+<a href="mailto:juanbarraza01718@gmail.com"><img src="https://img.shields.io/badge/-juanbarraza01718@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
