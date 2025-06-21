@@ -16,6 +16,7 @@ I'm a software engineer passionate about software development, cloud infrastruct
 - ![Java](https://img.shields.io/badge/Java-%23F7A800?style=for-the-badge&logo=java&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-%23223D7A?style=for-the-badge&logo=typescript&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%23026E9F?style=for-the-badge&logo=docker&logoColor=white) <!-- 🔼 Nuevo badge -->
 
 ## Frameworks
 
@@ -26,10 +27,7 @@ I'm a software engineer passionate about software development, cloud infrastruct
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%2361DAFB?style=for-the-badge&logo=express&logoColor=white)
 
-
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Barraza&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
-
 
 **Thank you for visiting my repository! I hope you find something interesting!**
