@@ -34,5 +34,5 @@ I'm a software engineer passionate about software development, cloud infrastruct
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="mailto:juanbarraza01718@gmail.com"><img src="https://img.shields.io/badge/-juanbarraza01718@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:barrazapadilla2004@gmail.com"><img src="https://img.shields.io/badge/-juanbarraza01718@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
