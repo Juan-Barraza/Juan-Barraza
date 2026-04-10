@@ -27,6 +27,7 @@ I'm a software engineer passionate about software development, cloud infrastruct
 - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 - ![Express](https://img.shields.io/badge/Express-%2361DAFB?style=for-the-badge&logo=express&logoColor=white)
 - ![Ionic](https://camo.githubusercontent.com/ede71eae9598a17e3d99af442225fec6bcb38caab146d78516870594b0b11b52/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496f6e69632d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d363144414642)
+- ![React](https://camo.githubusercontent.com/896c9f01fc8b046762d831eec794f5f8220d17887c2ad0fc462181f10db6c09d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3035313232413f7374796c653d666c6174266c6f676f3d7265616374)
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Barraza&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
