@@ -6,7 +6,7 @@
 
 <p align="center">
   Software engineer passionate about backend development, cloud infrastructure, and networking.<br/>
-  21 years old · Colombia 🇨🇴
+  22 years old · Colombia 🇨🇴
 </p>
 
 <p align="center">
