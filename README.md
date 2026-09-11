@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%23026E9F?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
 ---
